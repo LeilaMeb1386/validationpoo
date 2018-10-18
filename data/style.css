@@ -1,0 +1,18 @@
+.contenu{
+
+  text-align: center;
+  align-items: center;
+}
+h1{
+  color:purple;
+  text-decoration: underline;
+
+}
+.erreur{
+  padding:20%;
+  background-color: black;
+  color:white;
+  font-size: 3em;
+  text-align: center;
+  align-items: center;
+}
